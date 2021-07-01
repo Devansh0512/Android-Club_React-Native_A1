@@ -26,4 +26,4 @@ The default landing page of an app created using React-Native:-
 
 ## Modifying The App:-
 
-<img src="https://user-images.githubusercontent.com/68025181/124115577-99c3fe00-da8b-11eb-9cd5-2f16158d231b.jpeg" width="253" height="607">
+<img src="https://user-images.githubusercontent.com/68025181/124115577-99c3fe00-da8b-11eb-9cd5-2f16158d231b.jpeg" width="273" height="607">
