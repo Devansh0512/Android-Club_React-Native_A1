@@ -11,7 +11,7 @@ Aim: To create a new application using React Native and setting up the environme
 - S-4. In the termical copy the following command - npx react-native init BasicApp
 
 ![s2](https://user-images.githubusercontent.com/68025181/124105922-55336500-da81-11eb-8280-0ef41e8e51ac.png)
-<img src="https://user-images.githubusercontent.com/68025181/124105937-59f81900-da81-11eb-9639-569901330e50.png" width="750" height="300">
+<img src="https://user-images.githubusercontent.com/68025181/124105937-59f81900-da81-11eb-9639-569901330e50.png" width="750" height="250">
 
 - S-5. To run the app execute - npx react-native run-android (in the App folder).
 
