@@ -16,7 +16,7 @@ Aim: To create a new application using React Native and setting up the environme
 - S-5. To run the app execute - npx react-native run-android (in the App folder).
 
 
-<img src="https://user-images.githubusercontent.com/68025181/124106302-b5c2a200-da81-11eb-9ae6-7b70a7cc9182.png" width="274.3" height="106.7">
+<img src="https://user-images.githubusercontent.com/68025181/124106302-b5c2a200-da81-11eb-9ae6-7b70a7cc9182.png" width="450" height="300">
 ![s4 jpg](https://user-images.githubusercontent.com/68025181/124106302-b5c2a200-da81-11eb-9ae6-7b70a7cc9182.png)
  
 ## Default Application Interface:-
