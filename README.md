@@ -1,4 +1,4 @@
-# Assignment-1,Getting Started with React Native
+# Assignment-1: Getting Started with React Native
 Aim: To create a new application using React Native and setting up the environment.
 
 ## The steps involved to create an application are:-
