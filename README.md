@@ -21,9 +21,9 @@ Aim: To create a new application using React Native and setting up the environme
 
 The default landing page of an app created using React-Native:-
 
-![l1](https://user-images.githubusercontent.com/68025181/124115501-7f8a2000-da8b-11eb-8645-8b7e977daa74.jpeg =100x20)
-![l2](https://user-images.githubusercontent.com/68025181/124115518-84e76a80-da8b-11eb-92d0-f5ad3d5063ae.jpeg =100x20)
+![l1](https://user-images.githubusercontent.com/68025181/124115501-7f8a2000-da8b-11eb-8645-8b7e977daa74.jpeg =100x)
+![l2](https://user-images.githubusercontent.com/68025181/124115518-84e76a80-da8b-11eb-92d0-f5ad3d5063ae.jpeg =100x)
 
 ## Modifying The App:-
 
-![m1](https://user-images.githubusercontent.com/68025181/124115577-99c3fe00-da8b-11eb-9cd5-2f16158d231b.jpeg =100x20)
+![m1](https://user-images.githubusercontent.com/68025181/124115577-99c3fe00-da8b-11eb-9cd5-2f16158d231b.jpeg =100x)
