@@ -1,2 +1,2 @@
-# Android-Club_React-Native_A1
+# Assignment-1,Getting Started with React Native
 Getting Started With React-Native
