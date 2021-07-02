@@ -12,6 +12,8 @@ Aim: To create a new application using React Native and setting up the environme
 
 ![s2](https://user-images.githubusercontent.com/68025181/124105922-55336500-da81-11eb-8280-0ef41e8e51ac.png)
 <img src="https://user-images.githubusercontent.com/68025181/124105937-59f81900-da81-11eb-9639-569901330e50.png" width="750" height="250">
+![s5](https://user-images.githubusercontent.com/68025181/124286711-d9164b80-db6c-11eb-9c66-f0fb5f1e9f9b.JPG)
+
 
 - S-5. To run the app execute - npx react-native run-android (in the App folder).
 
